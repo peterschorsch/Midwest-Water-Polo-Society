@@ -1,0 +1,1 @@
+<div class="container containerAlt"><p>You are not authorized to view this page. You may return to the <a href="<?=base_url();?>home/index">home page.</a></p></div>
